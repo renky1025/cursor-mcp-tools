@@ -57,3 +57,10 @@ server.tool(
 名字：自定义
 选择命令（command）
 在命令行中输入：node /xxx/xx.xx/dist/index.js
+
+# 启动mcp
+![Enable](./images/image.png "MCP Servers")
+
+![Prometheus](./images/promimage.png "Prometheus query")
+
+![SysInfo](./images/sysimage.png "Computer info query")
